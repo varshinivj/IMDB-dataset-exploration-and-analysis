@@ -51,7 +51,7 @@ plt.show()
 print "\n\n\n\n\n\n"
 
 
-#IDS 494 Project Linear Regression
+#Project Linear Regression
 import pandas as pd 
 import statsmodels as s
 import numpy as ny
@@ -104,7 +104,7 @@ print(ml1.summary())
 print "\n\n\n\n\n\n"
 
 
-#IDS 494 Project Random Forest
+#Project Random Forest
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt 
@@ -159,7 +159,7 @@ plt.show()
 
 print "\n\n\n\n\n\n"
 
-#IDS 494 Project Text Mining
+#Project Text Mining
 from nltk.tokenize import *
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
